@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "@digitalbazaar/zcap-context": "^2.0.0",
-    "jsonld-signatures": "^11.0.0"
+    "jsonld-signatures": "https://github.com/dogwoodlogic/jsonld-signatures#crypto-global-this"
   },
   "devDependencies": {
     "@digitalbazaar/ed25519-signature-2020": "^5.0.0",
